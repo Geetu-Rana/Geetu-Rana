@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot.**
 
-- 👨‍💻 All of my projects are available at [https://superlative-malasada-ea31b3.netlify.app/](https://superlative-malasada-ea31b3.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://geeta-prakash-portfolio.netlify.app/](https://geeta-prakash-portfolio.netlify.app/)
 
 - 📫 How to reach me **geeturana1999@gmail.com**
 
-- 📄 Know about my experiences [https://onedrive.live.com/?authkey=%21ABUvm%5FyaunM4DtM&cid=A256BDA0B78FFB98&id=A256BDA0B78FFB98%21519&parId=A256BDA0B78FFB98%21518&o=OneUp](https://onedrive.live.com/?authkey=%21ABUvm%5FyaunM4DtM&cid=A256BDA0B78FFB98&id=A256BDA0B78FFB98%21519&parId=A256BDA0B78FFB98%21518&o=OneUp)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1DocR6-m98qLboSCiK_UsmldBMQH6kBoL/view?usp=sharing](https://drive.google.com/file/d/1DocR6-m98qLboSCiK_UsmldBMQH6kBoL/view?usp=sharing)
 
 - ⚡ Fun fact **love to watch movies at home.**
 
