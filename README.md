@@ -6,11 +6,11 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot.**
 
-- 👨‍💻 All of my projects are available at [https://geeta-prakash-portfolio.netlify.app/](https://geeta-prakash-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Linkedin](https://geeta-prakash-portfolio.netlify.app/)
 
 - 📫 How to reach me **geeturana1999@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DocR6-m98qLboSCiK_UsmldBMQH6kBoL/view?usp=sharing](https://drive.google.com/file/d/1DocR6-m98qLboSCiK_UsmldBMQH6kBoL/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ECLMyE4KiP9yKSn8NIattjaxraGq2CVa/view?usp=sharing)
 
 - ⚡ Fun fact **love to watch movies at home.**
 
