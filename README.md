@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Geeta Prakash Rana</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full-stack web developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 
