@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot.**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://geeta-prakash-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://geetu-rana.github.io/PortFolioGeetaPrakash/)
 
 - 📫 How to reach me **geeturana1999@gmail.com**
 
