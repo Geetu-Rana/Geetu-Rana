@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geetu-rana&show_icons=true&locale=en&layout=compact" alt="geetu-rana" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=geetu-rana&show_icons=true&locale=en" alt="geetu-rana" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=geetu-rana&show_icons=true&locale=en" alt="geetu-rana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geetu-rana&" alt="geetu-rana" /></p>
 
