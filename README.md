@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot.**
 
+- 👨‍ I'm currentry working on [e_commerce_api project](https://github.com/Geetu-Rana/e_commerce_project)  
+
 - 👨‍💻 All of my projects are available at [Portfolio](https://geetu-rana.github.io/PortFolioGeetaPrakash/)
 
 - 📫 How to reach me **geeturana1999@gmail.com**
