@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Java, Spring Boot.**
 
-- 👨‍ I'm currentry working on [e_commerce_api project](https://github.com/Geetu-Rana/e_commerce_project)  
-
 - 👨‍💻 All of my projects are available at [Portfolio](https://geetu-rana.github.io/PortFolioGeetaPrakash/)
 
 - 📫 How to reach me **geeturana1999@gmail.com**
@@ -19,7 +17,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/geeturana07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="geeturana07" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/geeta-prakash-rana-63261a22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/geeta-prakash-rana-63261a22b/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/geeta-prakash-rana-63261a22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Geeta Prakash Rana" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
