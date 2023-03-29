@@ -15,7 +15,7 @@
 - ⚡ Fun fact **love to watch movies at home.**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
 <a href="https://twitter.com/ranageetu07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@ranageetu07" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/geeta-prakash-rana-63261a22b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Geeta Prakash Rana" height="30" width="40" /></a>
 </p>
