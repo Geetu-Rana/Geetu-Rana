@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [geetu-rana.github.io](https://geetu-rana.github.io/)
 
-- 📫 How to reach me **geeturana1999@gmail.company **
+- 📫 How to reach me **geeturana1999@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ECLMyE4KiP9yKSn8NIattjaxraGq2CVa/view?usp=sharing)
 
