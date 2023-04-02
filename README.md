@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://r7q6w9z6.rocketcdn.me/career/wp-content/uploads/2020/03/hello.gif">
 
-- 🌱 I’m currently learning **Java, Spring Boot.**
+- 🌱 I’m currently learning **AWS**
 
 - 👨‍💻 All of my projects are available at [geetu-rana.github.io](https://geetu-rana.github.io/)
 
