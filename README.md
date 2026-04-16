@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **geeturana1999@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ECLMyE4KiP9yKSn8NIattjaxraGq2CVa/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BCsfc0WzOTlc2Y6dMr02vRhnxOJUNVQm/view?usp=sharing)
 
 - ⚡ Fun fact **love to watch movies at home.**
 
